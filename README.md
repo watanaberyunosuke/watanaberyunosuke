@@ -1,4 +1,4 @@
-<h2>Hello, I am Harry</h2>
+<h2>Hi there</h2>
 <p> I am a software and data engineer from Melbourne, Australia 🇦🇺</p>
 <p><b>Software and Data Engineer</b> at <a href="https://monash.edu">Monash University<a> currently pursuiting a Master of Information Technology</br>
  </p>
