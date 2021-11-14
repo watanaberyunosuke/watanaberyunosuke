@@ -3,5 +3,5 @@
 <p><b>Software Engineer</b> at Reesby Technology</p>
 
 
-[![LinkedIn]](https://www.linkedin.com/in/harry-zhan-watson-30486b134/)
+[![LinkedIn](https://img.shield.io/github/follow/watanaberyunosuke?labe=follw&style=social)](https://www.linkedin.com/in/harry-zhan-watson-30486b134/)
 [![Github]](https://github.com/watanaberyunosuke)
