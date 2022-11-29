@@ -2,7 +2,7 @@
 <p> I am a software and data engineer from Melbourne, Australia 🇦🇺</p>
 <p><b>Software and Data Engineer</b> at <a href="https://monash.edu">Monash University<a> currently pursuing a Master of Information Technology</br>
  </p>
-<p>I have experience with building software backend using <em>Java Spring Boot and Maven</em>, managing <em>RDBMS</em> (Oracle and MySQL), building <em>ETL pipeline</em> using AWS and Azure. I am also capable of managing <em>CI/CD pipeline</em> with CircleCI and Docker.</br>
+<p>I have experience with building software backend using <em>Java J2EE abd Spring Boot</em>, managing <em>RDBMS</em> (Oracle and MySQL), building <em>ETL pipeline</em> using <em>Kafka</em> and <em>Spark</em> and deploy to AWS and Azure. I am also capable of managing <em>CI/CD pipeline</em> with CircleCI and Docker.</br>
 Apart from that, I am also experience with <em>project management</em> and <em>corporate financing</em>.
 </p>
 
