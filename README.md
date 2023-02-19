@@ -11,4 +11,5 @@ Apart from that, I am also experience with <em>project management</em> and <em>c
 [![LinkedIn](https://img.shields.io/badge/-HarryZhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harry-zhan-watson-30486b134/)](https://www.linkedin.com/in/harry-zhan-watson-30486b134/)
 [![Github](https://img.shields.io/github/followers/watanaberyunosuke?label=follow&style=social)](https://github.com/watanaberyunosuke) <br>
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanaberyunosuke&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanaberyunosuke)
 
