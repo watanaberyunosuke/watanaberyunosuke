@@ -12,4 +12,5 @@ Apart from that, I am also experience with <em>project management</em> and <em>c
 [![Github](https://img.shields.io/github/followers/watanaberyunosuke?label=follow&style=social)](https://github.com/watanaberyunosuke) <br>
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanaberyunosuke&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanaberyunosuke&layout=compact)
+[![Harry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WRyunosuke)](https://wakatime.com/@WRyunosuke)
 
