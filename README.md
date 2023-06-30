@@ -10,9 +10,13 @@
 <h4>Framework</h4>
 <img src="https://skillicons.dev/icons?i=react,angular,spring,hibernate,maven,flask,django" />
 <h3>Data Engineering</h3>
-<img src="https://skillicons.dev/icons?i=py,pytorch,kafka,tensorflow,r,matlab,octave,mysql,postgres,mongo,cassandra,ipfs" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,kafka,tensorflow,r,matlab,octave,mysql,postgres,mongo,cassandra,dynamodb,ipfs" />
 <h3>Mobile Platform and Gaming</h3>
 <img src="https://skillicons.dev/icons?i=kotlin,swift,unity,unreal,cs" />
+<h3>Cloud and DevOps</h3>
+<img src="https://skillicons.dev/icons?i=aws,azure,heroku,bash,cloudflare,git,github,docker,jenkins" />
+<h3>Others</h3>
+<img src="https://skillicons.dev/icons?i=rust,latex,md,postman,raspberrypi" />
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
 
