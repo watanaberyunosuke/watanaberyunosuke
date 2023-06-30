@@ -2,9 +2,11 @@
 <p> I am a software and data engineer from Melbourne, Australia 🇦🇺</p>
 <p><b>Software and Data Engineer</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
  </p>
-<p>I have experience with building software backend using <em>Java and Spring Framework</em>, managing <em>RDBMS</em> (Oracle, Postgres and MySQL), building <em>ETL pipeline</em> using <em>Kafka</em> and <em>Spark</em> and deploy to AWS and Azure. I am also capable of managing <em>CI/CD pipeline</em> with Jenkins and Docker.</br>
-Apart from that, I am also experienced with <em>project management</em> and <em>corporate financing</em>.
-</p>
+<h3>Language and Tools</h3>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+
+
+
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
 
