@@ -5,7 +5,7 @@
 <h3>Language and Tools</h3>
 
 <h4>SaaS</h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)(https://skillicons.dev)
 
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
