@@ -1,5 +1,5 @@
 <h1>Hi there</h1>
-<p> I am a software and data engineer from Melbourne, Australia 🇦🇺</p>
+<p> I am a software and data engineer from Adelaide, Australia 🇦🇺</p>
 <p><b>Software and Data Engineer 👨‍💻</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
  </p>
 <p>My interest is in digital health and improving human society through technology🏥</p>
