@@ -16,7 +16,7 @@
 <h3>Mobile Platform and Gaming</h3>
 <img src="https://skillicons.dev/icons?i=kotlin,swift,unity,unreal,cs" />
 <h3>Cloud and DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,heroku,bash,cloudflare,git,github,docker,jenkins" />
+<img src="https://skillicons.dev/icons?i=aws,azure,heroku,bash,cloudflare,git,docker,jenkins" />
 <h3>Others</h3>
 <img src="https://skillicons.dev/icons?i=rust,latex,md,postman,raspberrypi" />
 
