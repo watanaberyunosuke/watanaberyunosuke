@@ -16,9 +16,9 @@
 <h3>Mobile Platform and Gaming</h3>
 <img src="https://skillicons.dev/icons?i=kotlin,swift,unity,unreal,cs" />
 <h3>Cloud and DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,heroku,bash,cloudflare,git,docker,jenkins" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,bash,cloudflare,git,docker,jenkins,githubactions" />
 <h3>Others</h3>
-<img src="https://skillicons.dev/icons?i=rust,latex,md,postman,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=rust,go,gherkin,latex,md,postman,figma,raspberrypi" />
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
 
