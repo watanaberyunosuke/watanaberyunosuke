@@ -10,7 +10,7 @@
 <h4>Language</h4>
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,nodejs" />
 <h4>Framework</h4>
-<img src="https://skillicons.dev/icons?i=react,angular,spring,hibernate,maven,flask,django,dotnet,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,nestjs,spring,flask,django,dotnet,bootstrap,materialui" />
 <h3>Data Engineering</h3>
 <img src="https://skillicons.dev/icons?i=py,pytorch,kafka,tensorflow,r,matlab,octave,mysql,postgres,mongo,cassandra,dynamodb,ipfs" />
 <h3>Mobile Platform and Gaming</h3>
