@@ -11,7 +11,7 @@
 <h4>Language</h4>
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,nodejs" />
 <h4>Framework</h4>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,nestjs,spring,flask,django,dotnet,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,nestjs,spring,flask,django,dotnet,bootstrap,tailwind,materialui" />
 <h3>Data Engineering</h3>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/>
 <img src="https://skillicons.dev/icons?i=py,pytorch,kafka,tensorflow,r,matlab,octave,mysql,postgres,mongo,cassandra,dynamodb,ipfs" />
