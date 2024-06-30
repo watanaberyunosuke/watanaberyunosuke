@@ -1,6 +1,6 @@
 <h1>Hi there</h1>
 
-<p><b>Software and Data Engineer 👨‍💻</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
+<p><b>Data Engineer 👨‍💻</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
  </p>
 <p>Currently working as Data Engineer@BOQ, in Melbourne, Australia 🇦🇺</p>
 <p>My interest is in digital health and improving human society through technology🏥</p>
