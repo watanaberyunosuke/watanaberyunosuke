@@ -24,7 +24,7 @@
 <h3>Cloud and DevOps</h3>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,cloudflare,git,docker,kubernetes&perline=5" />
 <h3>Others</h3>
-<img src="https://skillicons.dev/icons?i=rust,go,graphql,gherkin,latex,md,raspberrypi&perline=5" />
+<img src="https://skillicons.dev/icons?i=rust,go,graphql,prisma,gherkin,latex,md,raspberrypi&perline=5" />
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
 
