@@ -18,7 +18,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nextjs,nestjs,nodejs,dotnet&perline=10" />
 
 <h3>Data Engineering & Data Science</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,spark,kafka,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,spark,kafka,fabric,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,postgres,mongo,cassandra,dynamodb,ipfs&perline=10" />
 
 <h3>Mobile Platform and 3D Modelling</h3>
