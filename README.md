@@ -22,7 +22,7 @@
 <h3>Mobile Platform and 3D Modelling</h3>
 <img src="https://skillicons.dev/icons?i=kotlin,swift,unity,unreal,cs&perline=3" />
 <h3>Cloud and DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,bash, powershell, terraform,cloudflare,git,docker, kubernetes&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,cloudflare,git,docker,kubernetes&perline=5" />
 <h3>Others</h3>
 <img src="https://skillicons.dev/icons?i=rust,go,graphql,gherkin,latex,md,raspberrypi&perline=5" />
 
