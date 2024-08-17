@@ -36,4 +36,4 @@
 [![Github](https://img.shields.io/github/followers/watanaberyunosuke?label=follow&style=social)](https://github.com/watanaberyunosuke) <br>
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=watanaberyunosuke&show_icons=true&theme=prussian)
 
-
+<img src="https://wakatime.com/share/@WRyunosuke/abab351b-ccc6-4063-b6af-2aba8bca3cc9.svg" width="600" height="500">
