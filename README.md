@@ -20,14 +20,14 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nextjs,nestjs,nodejs,dotnet&perline=10" />
 
 <h3>Data Engineering & Data Science</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,fabric,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,fabric,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,postgres,mongo,cassandra,dynamodb,ipfs&perline=10" />
 
 <h3>Mobile Platform and 3D Modelling</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,unity,unreal,cs&perline=10" />
 
 <h3>Cloud and DevOps</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,cloudflare,git,docker,kubernetes&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,synk,datadog,cloudflare,git,docker,kubernetes&perline=10" />
 
 <h3>Others</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,prisma,gherkin,latex,md,raspberrypi&perline=10" />
