@@ -2,7 +2,7 @@
 
 <p><b>Data Engineer 👨‍💻</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
 </p>
-<p>Currently working as Data Engineer@BOQ, in Melbourne, Australia 🇦🇺</p>
+<p>Currently adventuring boldly as Data Engineer@Halo Labs, in Melbourne, Australia 🇦🇺</p>
 <p>My interest is in digital health and improving human society through technology🏥</p>
  
 <h2>Some of My Language and Tools</h2>
