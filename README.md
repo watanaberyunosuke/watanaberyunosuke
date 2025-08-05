@@ -1,6 +1,6 @@
 <h1>Hi there</h1>
 
-<p><b>Data Engineer 👨‍💻</b> from <a href="https://monash.edu">Monash University<a> with a Master of Information Technology</br>
+<p><b>Data Engineer and Software Engineer 👨‍💻</b></br>
 </p>
 <p>Data Engineer@Halo Labs, in Melbourne, Australia 🇦🇺</p>
 <p>My interest is in digital health and improving human society through technology🏥</p>
