@@ -17,7 +17,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,astro,bootstrap,tailwind,materialui&perline=10" />
 
 <h5>Backend</h5>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nextjs,nestjs,nodejs,dotnet&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nestjs,nextjs,nodejs,dotnet&perline=10" />
 
 <h3>Data Engineering & Data Science</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,fabric,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
