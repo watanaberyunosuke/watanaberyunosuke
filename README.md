@@ -20,7 +20,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nestjs,nextjs,nodejs,dotnet&perline=10" />
 
 <h3>Data Engineering</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,confluent,presto,fivetran,iceberg,fabric,oracle,mysql,postgres,mongo,cassandra,dynamodb,ipfs&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,confluent,presto,fivetran,iceberg,fabric,oracle,mysql,postgres,duckdb,mongo,cassandra,dynamodb&perline=10" />
 
 <h3>Data Science</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,huggingface,numpy,scipy,seaborn,matplotlib,plotly,r,matlab,sas&perline=10" />
