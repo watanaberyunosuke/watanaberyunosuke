@@ -9,7 +9,7 @@
 
 <h3>SaaS</h3>
 <h4>Language</h4>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,go,java,ts,js,html,css&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,rust,go,scala,ts,js,html,css&perline=10" />
 
 <h4>Framework</h4>
 
@@ -19,15 +19,17 @@
 <h5>Backend</h5>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nestjs,nextjs,nodejs,dotnet&perline=10" />
 
-<h3>Data Engineering & Data Science</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,fabric,pytorch,numpy,scipy,tensorflow,r,matlab&perline=10" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,postgres,mongo,cassandra,dynamodb,ipfs&perline=10" />
+<h3>Data Engineering</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=databricks,snowflake,spark,kafka,confluent,presto,fivetran,iceberg,fabric,oracle,mysql,postgres,mongo,cassandra,dynamodb,ipfs&perline=10" />
+
+<h3>Data Science</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,huggingface,numpy,scipy,seaborn,matplotlib,plotly,r,matlab,sas&perline=10" />
 
 <h3>Mobile Platform and 3D Modelling</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,swift,unity,unreal,cs&perline=10" />
 
 <h3>Cloud and DevOps</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,synk,datadog,cloudflare,git,docker,kubernetes&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,firebase,heroku,bash,powershell,terraform,datadog,cloudflare,git,docker,kubernetes&perline=10" />
 
 <h3>Others</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,prisma,gherkin,latex,md,raspberrypi&perline=10" />
