@@ -14,7 +14,7 @@
 <h4>Framework</h4>
 
 <h5>Frontend</h5>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,astro,bootstrap,tailwind,materialui&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,bootstrap,tailwind,materialui&perline=10" />
 
 <h5>Backend</h5>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,flask,django,nestjs,nextjs,nodejs,dotnet&perline=10" />
