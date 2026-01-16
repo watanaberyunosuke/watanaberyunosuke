@@ -3,7 +3,7 @@
 <p><b>Data Engineer and Software Engineer 👨‍💻</b></br>
 </p>
 
-<p>My interest is improving human society through technology and health</p>
+<p>My interest is improving human society through technology and digital health</p>
  
 <h2>Some of My Language and Tools</h2>
 
