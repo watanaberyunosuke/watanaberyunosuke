@@ -36,7 +36,7 @@
 
 <p>I love connecting with different people, so if you want to say hi, I'll be happy to meet you.</p>
 
-[![LinkedIn](https://img.shields.io/badge/-HarryZhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harry-zhan-watson-30486b134/)](https://www.linkedin.com/in/harry-zhan-watson-30486b134/)
+[![LinkedIn](https://img.shields.io/badge/-HarryWatson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harry-watson-30486b134/)](https://www.linkedin.com/in/harry-watson-30486b134/)
 [![Github](https://img.shields.io/github/followers/watanaberyunosuke?label=follow&style=social)](https://github.com/watanaberyunosuke) <br>
 
 <img src="https://wakatime.com/share/@WRyunosuke/abab351b-ccc6-4063-b6af-2aba8bca3cc9.svg" width="600" height="500">
